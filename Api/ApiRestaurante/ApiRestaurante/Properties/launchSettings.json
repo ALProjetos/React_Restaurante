@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ApiRestaurante": {
+      "commandName": "Project",
+      "commandLineArgs": "--urls http://+:5000",
+      "remoteDebugEnabled": false
+    }
+  }
+}
